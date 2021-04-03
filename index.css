@@ -47,12 +47,12 @@ p {
 
 
 .skillsBar .html {
-    width: 90%;
+    width: 80%;
     background-color: #2573A3;
 }
 
 .skillsBar .css {
-    width: 80%;
+    width: 50%;
     background-color: #2A80B9;
 }
 
@@ -62,12 +62,12 @@ p {
 }
 
 .skillsBar .web {
-    width: 85%;
+    width: 50%;
     background-color: #7EB4D6;
 }
 
 .skillsBar .gr {
-    width: 23%;
+    width: 50%;
     background-color: #A7CDE2;
 }
 
